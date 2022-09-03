@@ -1,6 +1,6 @@
 .refresh-button {
-  background-color: #b52b42;
-  color: #f2f2f2;
+  background-color: #dedcdc;
+  color: black;
   border: none;
   border-radius: 10px;
   padding: 3%;
@@ -12,16 +12,16 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 50%;
+  width: 100%;
   margin: 0 auto;
   padding: 5%;
   height: 40vh;
-  background-color: #40c23c;
+  background-color: #dd8051;
 }
 
 .container p {
   width: 30%;
-  border: 1px solid #facb80;
+  border: 1px solid #201e1b;
   padding: 5%;
   text-align: center;
   font-weight: bold;
